@@ -30,7 +30,7 @@
 
 		<liferay-ui:search-container-column-text property="name" />
 
-		<liferay-ui:search-container-column-jsp align="right"
+		<liferay-ui:search-container-column-jsp name="action" align="center"
 			path="/guestbook/entry_actions.jsp" />
 
 	</liferay-ui:search-container-row>
